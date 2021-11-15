@@ -3,11 +3,9 @@
 
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/Nawod/count.svg">
-
 [![GitHub followers](https://img.shields.io/github/followers/Nawod.svg?style=social&label=Followers)](https://github.com/Nawod?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawod!;I'm+Learning+Software+&+Web+Developing...;I'm+also+Love+to+Designe+UX/UI...;+Also+I'm+Seeking+New+Technologies...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawod!;I'm+Learning+Software/Web+Developing...;I'm+also+Love+to+Designe+UX/UI...;Also+I'm+Seeking+New+Technologies...)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Nawod&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
