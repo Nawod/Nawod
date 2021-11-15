@@ -2,10 +2,14 @@
 
 
 ### Hi there 👋
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BNawod%7D/count.svg" alt="visitor badge"/></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/Nawod.svg?style=social&label=Followers)](https://github.com/Nawod?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawod!;I'm+Learning+Software+Developing...;I'm+Love+to+Designe+UX/UI...;Also+I'm+Seeking+New+Technologies...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawod!;I'm+a+Learning+Developer...;I'm+Also+Seeking+New Technologies;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Nawod&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
