@@ -7,10 +7,10 @@
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BNawod%7D/count.svg" alt="visitor badge"/></p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Nawod.svg?style=social&label=Followers)](https://github.com/Nawod?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawod!;I'm+a+Learning+Developer...;Also+Seeking+New+Technologies;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
+[![GitHub followers](https://img.shields.io/github/followers/Nawod.svg?style=social&label=Followers)](https://github.com/Nawod?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=Nawod&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
