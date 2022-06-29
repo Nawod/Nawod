@@ -15,11 +15,10 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🎓 I'm currently following Cyber Security specilaization at SLIIT
-- 🌱 I've 6+ months of professional experience worked at DeltaSpike(Pvt) Ltd as a trainee cyber security engineer
-- 📚 I’m doing a research to detect network anomalies using NLP techniques
+- 🎓 I'm a BSc(Hons) Information Technology specilaized in Cyber Security degree holder
+- 📚 And I’m currently working as a Software Engineer at Zoomi SoftLab Pvt Ltd
+- 🧑‍💻 I’m also worked as a Freelancer at Fiverr as a UX/UI designer and a developer
 - 🖋️ I have done self projects on web/mobile/desktop application development, AI technologies for my self interest 
-- 🧑‍💻 I’m also working as a Freelancer at Fiverr as a UX/UI designer and a developer
 - 📫 I am also a technical writer at Medium 
 -  📰 Articles: 
 	-	[My Medium Profile](https://medium.com/@madhuvantha) 
