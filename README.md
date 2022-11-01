@@ -8,7 +8,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7BNawod%7D/count.svg" alt="visitor badge"/></p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawod!;I'm+a+Learning+Developer...;Also+Seeking+New+Technologies;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawod!;I'm+a+Software+Engineer...;Also+Seeking+New+Technologies;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Nawod.svg?style=social&label=Followers)](https://github.com/Nawod?tab=followers)
 <img src="https://komarev.com/ghpvc/?username=Nawod&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
@@ -70,8 +70,12 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
   &emsp;
-<a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<a href="https://www.javascript.com/">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  </a>
+&emsp;
+<a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
   </a>
 &emsp;
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
@@ -94,16 +98,20 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
 &emsp;
-<a href="https://www.javascript.com/">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  </a>
-&emsp;
   
 </p>
 
 ### 👉 Frameworks
 <p align="left"> 
 &emsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a> 
+&emsp;
+  <a href="https://angular.io/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/Angualr-20232A?style=for-the-badge&logo=angular&logoColor=E34E43">
+  </a>
+  &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
    </a>
@@ -112,16 +120,8 @@
    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a> 
-   &emsp;
   <a href="https://keras.io/" target="_blank"> 
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://getbootstrap.com/" target="_blank"> 
-    <img alt="Bootstrap" src="	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
 </p>
 
