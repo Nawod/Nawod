@@ -90,14 +90,6 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
 &emsp;
-<a href="https://html.com/">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-&emsp;
-<a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-&emsp;
   
 </p>
 
