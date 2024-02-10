@@ -15,17 +15,16 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🎓 I'm a BSc(Hons) Information Technology specilaized in Cyber Security degree holder
-- 📚 And I’m currently working as a Software Engineer at Zoomi SoftLab Pvt Ltd
-- 🧑‍💻 I’m also worked as a Freelancer at Fiverr as a UX/UI designer and a developer
-- 🖋️ I have done self projects on web/mobile/desktop application development, AI technologies for my self interest 
-- 📫 I am also a technical writer at Medium 
--  📰 Articles: 
-	-	[My Medium Profile](https://medium.com/@madhuvantha) 
+- 🎓 I'm a BSc(Hons) Information Technology specialized in Cyber Security degree holder
+- 🧑‍💻 I’m currently working as a Freelance developer at Fiverr and myself
+- 📚 I’ve also worked as a Software Engineer at Zoomi SoftLab Pvt Ltd
+- 🖋️ I have done self-projects on web/mobile/desktop application development, and AI technologies for my self-interest 
+- 📫 You can check my portfolio website 
+	-	[My Portfolio](https://madhuvantha.netlify.app/) 
 
 <p>Connect with me on
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/nawwa.4x/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/madhuvantha-kan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="madhuvanthanawo1@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -66,18 +65,18 @@
 <p align="left"> 
   
 
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  &emsp;
-<a href="https://www.javascript.com/">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  </a>
-&emsp;
 <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
   </a>
 &emsp;
+<a href="https://www.javascript.com/">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  </a>
+&emsp;
+<a href="https://python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  &emsp;
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </a>
