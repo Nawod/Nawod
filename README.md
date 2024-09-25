@@ -16,17 +16,17 @@
 <h3> Here's some fun facts about me: </h3>
 
 - 🎓 I'm a BSc(Hons) Information Technology specialized in Cyber Security degree holder
-- 🧑‍💻 I’m currently working as a Freelance developer at Fiverr and myself
-- 📚 I’ve also worked as a Software Engineer at Zoomi SoftLab Pvt Ltd
+- 📚 I’m currently working as a Software Engineer at The Marvel Adventures & Expeditions
+- 🧑‍💻 I’m also working as a Freelance developer at Fiverr and myself
 - 🖋️ I have done self-projects on web/mobile/desktop application development, and AI technologies for my self-interest 
 - 📫 You can check my portfolio website 
-	-	[My Portfolio](https://madhuvantha.netlify.app/) 
+	-	[My Portfolio](https://nawod.netlify.app/) 
 
 <p>Connect with me on
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/madhuvantha-kan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="madhuvanthanawo1@gmail.com"
+<a target="_blank" href="dev.nawod@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://www.behance.net/madhuvantha"><img src="https://aleen42.github.io/badges/src/behance.svg"></img></a>
@@ -99,8 +99,12 @@
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a> 
 &emsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="Next" src="https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next&logoColor=E34E43">
+  </a>
+&emsp;
   <a href="https://angular.io/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/Angualr-20232A?style=for-the-badge&logo=angular&logoColor=E34E43">
+    <img alt="Angular" src="[https://img.shields.io/badge/Angualr-20232A?style=for-the-badge&logo=angular&logoColor=E34E43](https://img.shields.io/badge/Angualr-20232A?style=for-the-badge&logo=angular&logoColor=E34E43)">
   </a>
   &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
