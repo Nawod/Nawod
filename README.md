@@ -104,7 +104,7 @@
   </a>
 &emsp;
   <a href="https://angular.io/" target="_blank">
-    <img alt="Angular" src="[https://img.shields.io/badge/Angualr-20232A?style=for-the-badge&logo=angular&logoColor=E34E43](https://img.shields.io/badge/Angualr-20232A?style=for-the-badge&logo=angular&logoColor=E34E43)">
+    <img alt="Angular" src="https://img.shields.io/badge/Angualr-20232A?style=for-the-badge&logo=angular&logoColor=E34E43">
   </a>
   &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
