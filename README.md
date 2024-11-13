@@ -20,11 +20,11 @@
 - 🧑‍💻 I’m also working as a Freelance developer at Fiverr and myself
 - 🖋️ I have done self-projects on web/mobile/desktop application development, and AI technologies for my self-interest 
 - 📫 You can check my portfolio website 
-	-	[My Portfolio](https://nawod.netlify.app/) 
+	-	[My Portfolio](https://www.nawodmadhuwantha.com/]) 
 
 <p>Connect with me on
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/madhuvantha-kan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/nawodmadhuwantha"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="dev.nawod@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -106,6 +106,10 @@
   <a href="https://angular.io/" target="_blank">
     <img alt="Angular" src="https://img.shields.io/badge/Angualr-20232A?style=for-the-badge&logo=angular&logoColor=E34E43">
   </a>
+&emsp;
+  <a href="[https://threejs.org/]" target="_blank"> 
+     <img alt="ThreeJS" src="https://img.shields.io/badge/ThreeJS-02569B?style=for-the-badge&logo=threejs&logoColor=white">
+   </a>
   &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
